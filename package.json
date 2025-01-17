@@ -1,0 +1,12 @@
+{
+  "name": "automatisation_dev_tp_2",
+  "version": "1.0.0",
+  "description": "Ce projet est un petit annuaire d'entreprises.  \r Il permet de lister plusieurs entreprises, et d'en voir leur bureaux et employées.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC"
+}
